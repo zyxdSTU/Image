@@ -127,3 +127,38 @@ Extensions Added:
   winteriscoming v0.9.0
 --------------------
 Done.
+
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.2.7
+--------------------
+GitHub Token: 3bbfe5624c1324b358f3109de27cdd9435e7a022
+GitHub Gist: b72d99698724b46c4b2746380f211800
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  keybindings.json > keybindings.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  code-settings-sync v3.2.7
+  java v0.42.1
+  python v2019.3.6352
+  vsc-material-theme v2.8.2
+  vscode-java-debug v0.17.0
+  vscode-java-dependency v0.4.0
+  vscode-java-pack v0.6.0
+  vscode-java-test v0.15.1
+  vscode-maven v0.16.0
+  vscodeintellicode v1.1.5
+  winteriscoming v0.9.0
+--------------------
+Done.
